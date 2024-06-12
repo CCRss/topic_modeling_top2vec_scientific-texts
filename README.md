@@ -1,4 +1,5 @@
 [🇷🇺 Русская версия](README_ru.md)
+
 [main colab](https://colab.research.google.com/drive/1oSkcPVZxlbSJ9AwwVHt8TBg3CBTzVllV?usp=sharing)
 # Diploma Project: Scientific Text Vectorization
 ![MindMap](/img/markmap-main.png)
